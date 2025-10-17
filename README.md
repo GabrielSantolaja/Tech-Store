@@ -54,12 +54,12 @@ TechStore é um e-commerce moderno e responsivo especializado em produtos de tec
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/GabrielSantolaja/TechStore.git
+   git clone https://github.com/GabrielSantolaja/Tech-Store.git
    ```
 
 2. **Entre no diretório**
    ```bash
-   cd TechStore
+   cd Tech-Store
    ```
 
 3. **Execute um servidor local**
